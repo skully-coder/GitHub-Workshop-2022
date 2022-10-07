@@ -18,8 +18,8 @@ You need to create a file named `<your-github-username>.md` in the `contributors
 
 For example:
 ```md
-Name: Abhinav Agrawal
-GitHub Username: skully-coder
-Favorite Programming Language: Python
-Link to GitHub Profile: https://github.com/skully-coder
+**Name**: Abhinav Agrawal  
+**GitHub Username**: skully-coder  
+**Favorite Programming Language**: Python  
+**Link to GitHub Profile**: [skully-coder](https://github.com/skully-coder)
 ```
